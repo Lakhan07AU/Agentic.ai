@@ -8,7 +8,7 @@ This project implements an Agentic AI–based intelligent planner that helps use
 
 Unlike traditional static planners, this project introduces a goal-oriented Planner Agent that decomposes high-level goals into structured sub-tasks, assigns learning levels, and generates an optimized day-wise schedule.
 
-🎯 Key Features
+#🎯 Key Features
 
 Dependency-aware learning path generation
 
@@ -22,7 +22,7 @@ Modular and scalable architecture
 
 Extendable to AI tutoring and cybersecurity planning systems
 
-🧠 Core Concepts Used
+#🧠 Core Concepts Used
 
 Agentic AI (Planner Agent)
 
@@ -34,7 +34,7 @@ Scheduling Algorithms
 
 Software Engineering Principles
 
-🏗️ System Architecture
+#🏗️ System Architecture
 User Input
    ↓
 Planner Agent
@@ -49,7 +49,7 @@ Time Allocation
    ↓
 Final Learning Schedule
 
-⚙️ Technology Stack
+#⚙️ Technology Stack
 
 Programming Language: Python
 
@@ -59,19 +59,14 @@ Backend (Optional): FastAPI
 
 Database (Optional): MongoDB
 
-▶️ How to Run
-git clone https://github.com/your-username/agentic-ai-planner.git
-cd agentic-ai-planner
-python main.py
-
-📂 Project Structure
+#📂 Project Structure
 agentic-ai-planner/
 │── main.py
 │── planner/
 │── data/
 │── README.md
 
-🚀 Applications
+#🚀 Applications
 
 Academic study planning
 
@@ -81,7 +76,7 @@ Project and task scheduling
 
 Cybersecurity incident response planning
 
-🔮 Future Scope
+#🔮 Future Scope
 
 Adaptive re-planning using user feedback
 
@@ -89,12 +84,12 @@ Integration with AI learning companions
 
 Cybersecurity SOC workflow automation
 
-👥 Team Members
+#👥 Team Members
 
 Lakhan Singh
 
 Dipin Roka
 
-📜 License
+#📜 License
 
 This project is for academic and learning purposes.
